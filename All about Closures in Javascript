@@ -1,0 +1,8 @@
+Closure is a combination of function bundled together with it's lexical environment. It is a function that references variables in the outer scope from it's inner scope
+
+To know more about Closures we need to know about Lexical scope.
+
+What is Lexical scope?
+A Lexical scope in JavaScript means that a variable defined outside a function can be accessible inside another function defined after the variable declaration. But the opposite is not true; the variables defined inside a function will not be accessible outside that function.
+
+Let's see an example.
